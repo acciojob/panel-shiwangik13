@@ -31,12 +31,7 @@ img:hover{
 .flex-item{
 	position:relative;
 }
-.hide{
-	position:absolute;
-	top:320px;
-	left:20px;
-	display:none;
-}
+
 img:hover + .hide{
 	display:block;
 	color:white;
